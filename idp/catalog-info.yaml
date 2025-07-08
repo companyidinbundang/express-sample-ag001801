@@ -9,3 +9,4 @@ spec:
   type: service
   owner: group:default/ag001801-group
   lifecycle: experimental
+  system: AG001801
